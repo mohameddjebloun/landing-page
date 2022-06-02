@@ -79,6 +79,22 @@ button {
   width: 100px;
   height: 100px;
 }
+/*Third section*/
+.section-3 {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    text-align: center;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.section-3 cite {
+    font-weight: 900;
+    align-self:flex-end;
+}
 /*images*/
 .logo {
     height: 10%;
