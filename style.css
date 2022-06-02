@@ -116,6 +116,16 @@ button {
     width: 100px;
     align-self: center;
 }
+/*Footer*/
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    height: 100px;
+}
 /*images*/
 .logo {
     height: 10%;
