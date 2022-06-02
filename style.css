@@ -95,6 +95,27 @@ button {
     font-weight: 900;
     align-self:flex-end;
 }
+/*Fourth section*/
+.section-4 {
+    margin: 100px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    display: flex;
+    padding: 80px;
+    justify-content: space-between;
+    border-radius: 4%;
+}
+.section-4 h1, .section-4 p {
+    margin: 0;
+    margin-right: 50px;
+}
+.section-4 button {
+    color: #E5E7EB;
+    border-color: #E5E7EB;
+    height: 30px;
+    width: 100px;
+    align-self: center;
+}
 /*images*/
 .logo {
     height: 10%;
